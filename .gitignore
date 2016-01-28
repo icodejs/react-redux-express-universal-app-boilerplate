@@ -1,0 +1,24 @@
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.swp
+*.todo
+*.rdb
+
+# Heroku
+.env
+
+pids
+logs
+results
+
+npm-debug.log
+node_modules
+dump
+
+public/dist
+public/css/
